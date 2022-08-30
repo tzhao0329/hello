@@ -13,5 +13,8 @@ int main(int argc, char **argv) {
   printf("Tingting Zhao\n");
   printf("Major: Mathematics! \n");
   
+  printf("Yazhe Wang\n");
+  printf("Major: Economics! \n");
+  
   return 0;
 }
